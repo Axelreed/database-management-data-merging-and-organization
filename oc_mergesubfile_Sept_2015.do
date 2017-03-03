@@ -486,4 +486,4 @@ label values cntry cntry
 drop filenum
 tab cntry 
 save allor3, replace //append process complete "all countries older round 1" 
-// data saved
+// each round is combined and data saved
